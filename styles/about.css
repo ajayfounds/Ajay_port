@@ -37,3 +37,11 @@
   background-color: #210F41;
   transition: 0.3s ease-in-out;
 }
+
+@media(max-width: 950px)
+{
+    .about-info
+    {
+        padding: 15px 20px;
+    }
+}
