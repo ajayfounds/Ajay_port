@@ -38,10 +38,8 @@
   transition: 0.3s ease-in-out;
 }
 
-@media(max-width: 950px)
-{
-    .about-info
-    {
-       display: grid;
+@media (max-width: 830px) {
+    .about-info {
+        display: grid;
     }
 }
